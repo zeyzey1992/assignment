@@ -1,0 +1,15 @@
+body{
+    font-family: 'Cormorant Garamond', serif;
+    background-image: url("../assets/pattern.svg");
+    background-color: rgb(198, 149, 45);
+}
+main img{
+    width: 100%;
+}
+footer{
+    text-align: center;
+    color: black;
+}
+footer img{
+    width: 120px;
+}

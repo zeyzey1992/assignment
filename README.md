@@ -7,3 +7,6 @@ stage 1 updated and added in git hub
 2)Stage 2 completed
 All images has been added on the file
 stage 2 updated and added in git hub
+
+3)Stage 3 completed
+nav bar has been added on home page;
